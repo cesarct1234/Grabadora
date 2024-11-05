@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name" translatable="false">Grabadora</string>
+    <string name="recordButton" translatable="false">Grabar</string>
+    <string name="playButton" translatable="false">Reproducir</string>
+    <string name="stopButton" translatable="false">Detener</string>
+</resources>
